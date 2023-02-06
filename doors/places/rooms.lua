@@ -2,7 +2,7 @@ local a=game:GetService'ContextActionService'local b=game:GetService'Players'
 local c=game:GetService'ReplicatedStorage'local d=game:GetService'RunService'
 local e=game:GetService'SoundService'local f=game:GetService'Workspace'local g=
 game:GetService'VirtualInputManager'local h='Doors'local i='GamesenseDotWin'local j=
-'TerminalVibes/doors'local k='rooms'local l={[6839171747]=5924}do local m=game.
+'Cheetos/doors'local k='rooms'local l={[6839171747]=5924}do local m=game.
 PlaceId local n=game.PlaceVersion local o=l[m]if not o then warn
 'Script does not support this place instance.'warn
 [[The PlaceID and version has been set to your clipboard. Please report this to the developer.]]
