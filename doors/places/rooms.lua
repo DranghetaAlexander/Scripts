@@ -1,4 +1,4 @@
-local a=game:GetService'ContextActionService'local b=game:GetService'Players' 
+local a=game:GetService'ContextActionService'local b=game:GetService'Players'
 local c=game:GetService'ReplicatedStorage'local d=game:GetService'RunService'
 local e=game:GetService'SoundService'local f=game:GetService'Workspace'local g=
 game:GetService'VirtualInputManager'local h='Doors'local i='GamesenseDotWin'local j=
