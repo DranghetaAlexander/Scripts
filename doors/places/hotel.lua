@@ -1,7 +1,7 @@
 local a=game:GetService'Players'local b=game:GetService'ReplicatedStorage'local
 c=game:GetService'RunService'local d=game:GetService'SoundService'local e=game:
 GetService'Workspace'local f=game:GetService'VirtualInputManager'local g='Doors'
-local h='NeverloseDotWin'local i='TerminalVibes/doors'local j='hotel'local k={[
+local h='NeverloseDotWin'local i='Cheetos/doors'local j='hotel'local k={[
 6839171747]=5924}do local l=game.PlaceId local m=game.PlaceVersion local n=k[l]
 if not n then warn'Script does not support this place instance.'warn
 [[The PlaceID and version has been set to your clipboard. Please report this to the developer.]]
