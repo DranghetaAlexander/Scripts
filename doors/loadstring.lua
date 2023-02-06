@@ -1,4 +1,4 @@
-local a=game:GetService'ReplicatedStorage'local b= 
+local a=game:GetService'ReplicatedStorage'local b=
 [[https://raw.githubusercontent.com/DranghetaAlexander/Scripts/main/doors/]]
 local c=game.GameId local d=game.PlaceId if c~=2440500124 then return end if not
 game:IsLoaded()then game.Loaded:Wait()task.wait(4)end task.wait(1)local e=a:
