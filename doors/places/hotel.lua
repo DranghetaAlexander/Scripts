@@ -1,4 +1,4 @@
-local a=game:GetService'Players'local b=game:GetService'ReplicatedStorage'local 
+local a=game:GetService'Players'local b=game:GetService'ReplicatedStorage'local
 c=game:GetService'RunService'local d=game:GetService'SoundService'local e=game:
 GetService'Workspace'local f=game:GetService'VirtualInputManager'local g='Doors'
 local h='NeverloseDotWin'local i='TerminalVibes/doors'local j='hotel'local k={[
