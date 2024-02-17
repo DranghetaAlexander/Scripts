@@ -1,0 +1,1 @@
+game.Workspace.CurrentCamera.FieldOfView  = 100
